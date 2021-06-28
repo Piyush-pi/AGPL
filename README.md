@@ -1,4 +1,4 @@
-# AGPL #ApplicationGamesPremeirLeague #JavaGames #GameDevelopment
+# AGPL #ApplicationGamesPremierLeague #JavaGames #GameDevelopment
 AGPL => for Application Games Premeir League.
 
 AGPL is a game which is simply created using logics and basic designs and components of java in-built libraries.
